@@ -8,6 +8,8 @@ Six time steps (stepsize) are used to demonstrate the effect of step size on the
 File 2: CoupledODE_Monte_Carlo_Simulation.ipynb solves the Coupled Differential Equation by sampling 10000 random Initial Conditions for 
 each X,Y and Z at 4 stepsizes.Results plotted at the end demonstrate the impact of stepsize on solution of differential equation for 10,000 initial conditions.  
 
+File 3: Contains report containing results and analysis
+
 References:
 
 https://juanitorduz.github.io/multivariate_normal/
