@@ -2,10 +2,14 @@
 
 Problem statement given at http://cds.iisc.ac.in/wp-content/uploads/CDS_DS_MHRD-STARS_Jul-2020_PA.pdf.
 
-File 1: CoupledODE_Known_Initial_Condition.ipynb solves the Coupled Differential Equation with Initial Conditions as X[0]=Y[0]=Z[0]=1. 
+File 1: CoupledODE_Known_Initial_Condition.ipynb 
+
+Solves the Coupled Differential Equation with Initial Conditions as X[0]=Y[0]=Z[0]=1. 
 Six time steps (stepsize) are used to demonstrate the effect of step size on the solutions. 
 
-File 2: CoupledODE_Monte_Carlo_Simulation.ipynb solves the Coupled Differential Equation by sampling 10000 random Initial Conditions for 
+File 2: CoupledODE_Monte_Carlo_Simulation.ipynb 
+
+Solves the Coupled Differential Equation by sampling 10000 random Initial Conditions for 
 each X,Y and Z at 4 stepsizes.Results plotted at the end demonstrate the impact of stepsize on solution of differential equation for 10,000 initial conditions.  
 
 File 3: Contains report containing results and analysis
